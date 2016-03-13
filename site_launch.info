@@ -1,0 +1,5 @@
+name = Site Launch Checklist and Review
+description = An interactive checklist of performance, security, and content tasks for launch.
+core = 7.x
+dependencies[] = checklistapi
+configure = admin/config/development/launch-checklist
